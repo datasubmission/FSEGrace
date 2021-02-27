@@ -1,0 +1,6 @@
+org.apache.commons.lang.math.Fraction:getDenominator()I,0.05699099227786064
+org.apache.commons.lang.math.Fraction:greatestCommonDivisor(II)I,0.35390210151672363
+org.apache.commons.lang.math.Fraction:reduce()Lorg/apache/commons/lang/math/Fraction;,0.08862770348787308
+org.apache.commons.lang.math.Fraction:<init>(II)V,0.07205330580472946
+org.apache.commons.lang.math.Fraction:getFraction(II)Lorg/apache/commons/lang/math/Fraction;,0.37143492698669434
+org.apache.commons.lang.math.Fraction:getNumerator()I,0.05699099227786064

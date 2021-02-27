@@ -1,0 +1,3 @@
+org.apache.commons.lang.builder.EqualsBuilder:append(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;,0.5419821739196777
+org.apache.commons.lang.builder.EqualsBuilder:isEquals()Z,0.24280206859111786
+org.apache.commons.lang.builder.EqualsBuilder:<init>()V,0.21521572768688202

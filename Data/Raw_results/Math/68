@@ -1,0 +1,9 @@
+org.apache.commons.math.analysis.solvers.BisectionSolver:<init>()V,0.009630568325519562
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl:<init>(ID)V,0.0035815476439893246
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl:clearResult()V,0.0031899802852422
+org.apache.commons.math.analysis.solvers.BisectionSolver:solve(DD)D,0.27778327465057373
+org.apache.commons.math.ConvergingAlgorithmImpl:<init>(ID)V,0.0025890490505844355
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils:midpoint(DD)D,0.022959530353546143
+org.apache.commons.math.analysis.solvers.BisectionSolver:solve(Lorg/apache/commons/math/analysis/UnivariateRealFunction;DDD)D,0.48100247979164124
+org.apache.commons.math.analysis.solvers.BisectionSolver:solve(Lorg/apache/commons/math/analysis/UnivariateRealFunction;DD)D,0.19648706912994385
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl:verifyInterval(DD)V,0.0027765531558543444

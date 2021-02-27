@@ -1,0 +1,15 @@
+org.apache.commons.math3.geometry.euclidean.threed.Line:reset(Lorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;Lorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;)V,0.029364123940467834
+org.apache.commons.math3.geometry.euclidean.threed.Vector3D:toArray()[D,0.009716575965285301
+org.apache.commons.math3.geometry.euclidean.threed.Line:revert()Lorg/apache/commons/math3/geometry/euclidean/threed/Line;,0.8992347717285156
+org.apache.commons.math3.geometry.euclidean.threed.Line:<init>(Lorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;Lorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;)V,0.004072219133377075
+org.apache.commons.math3.geometry.euclidean.threed.Vector3D:getNormSq()D,0.001828457461670041
+org.apache.commons.math3.geometry.euclidean.threed.Vector3D:<init>(DLorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;)V,0.0023382348008453846
+org.apache.commons.math3.geometry.euclidean.threed.Vector3D:<init>(DLorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;DLorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;)V,0.0025051182601600885
+org.apache.commons.math3.geometry.euclidean.threed.Vector3D:subtract(Lorg/apache/commons/math3/geometry/Vector;)Lorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;,0.0019451823318377137
+org.apache.commons.math3.geometry.euclidean.threed.Line:getDirection()Lorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;,0.01739577203989029
+org.apache.commons.math3.geometry.euclidean.threed.Vector3D:negate()Lorg/apache/commons/math3/geometry/euclidean/threed/Vector3D;,0.005606825463473797
+org.apache.commons.math3.geometry.euclidean.threed.Vector3D:<init>(DDD)V,0.0015532700344920158
+org.apache.commons.math3.util.MathArrays:linearCombination(DDDD)D,0.008185748010873795
+org.apache.commons.math3.geometry.euclidean.threed.Vector3D:dotProduct(Lorg/apache/commons/math3/geometry/Vector;)D,0.001921667717397213
+org.apache.commons.math3.util.FastMath:sqrt(D)D,0.00125926046166569
+org.apache.commons.math3.util.MathArrays:linearCombination(DDDDDD)D,0.013072782196104527

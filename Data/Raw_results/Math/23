@@ -1,0 +1,16 @@
+org.apache.commons.math3.util.FastMath:cos(D)D,0.00073662941576913
+org.apache.commons.math3.util.FastMath:atan2(DD)D,0.002308086957782507
+org.apache.commons.math3.optimization.fitting.WeightedObservedPoint:getY()D,0.000768063182476908
+org.apache.commons.math3.optimization.fitting.HarmonicFitter$ParameterGuesser:sortObservations()V,0.16269974410533905
+org.apache.commons.math3.optimization.fitting.HarmonicFitter$ParameterGuesser:guessAOmega()V,0.4196802079677582
+org.apache.commons.math3.util.FastMath:cosQ(DD)D,0.0006214255117811263
+org.apache.commons.math3.util.FastMath:sin(D)D,0.0008284541545435786
+org.apache.commons.math3.optimization.fitting.HarmonicFitter$ParameterGuesser:guessPhi()V,0.3575795888900757
+org.apache.commons.math3.optimization.fitting.WeightedObservedPoint:<init>(DDD)V,0.0012577095767483115
+org.apache.commons.math3.optimization.fitting.HarmonicFitter$ParameterGuesser:guess()[D,0.036055199801921844
+org.apache.commons.math3.util.FastMath:sinQ(DD)D,0.0014093868667259812
+org.apache.commons.math3.optimization.fitting.WeightedObservedPoint:getX()D,0.0007680635317228734
+org.apache.commons.math3.util.FastMath:polyCosine(D)D,0.0006189320702105761
+org.apache.commons.math3.util.FastMath:sqrt(D)D,0.0004595023056026548
+org.apache.commons.math3.util.FastMath:polySine(D)D,0.0006189320702105761
+org.apache.commons.math3.optimization.fitting.HarmonicFitter$ParameterGuesser:<init>([Lorg/apache/commons/math3/optimization/fitting/WeightedObservedPoint;)V,0.013590022921562195

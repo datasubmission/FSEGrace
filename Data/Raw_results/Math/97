@@ -1,0 +1,3 @@
+org.apache.commons.math.util.MathUtils:gcd(II)I,0.17883014678955078
+org.apache.commons.math.util.MathUtils:lcm(II)I,0.7859176397323608
+org.apache.commons.math.util.MathUtils:mulAndCheck(II)I,0.035252220928668976

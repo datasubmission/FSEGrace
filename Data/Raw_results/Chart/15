@@ -1,0 +1,15 @@
+org.jfree.data.DataUtilities:createNumberArray2D([[D)[[Ljava/lang/Number;,0.0003944964555557817
+org.jfree.data.category.DefaultIntervalCategoryDataset:clone()Ljava/lang/Object;,0.17076323926448822
+org.jfree.data.category.DefaultIntervalCategoryDataset:<init>([Ljava/lang/Comparable;[Ljava/lang/Comparable;[[Ljava/lang/Number;[[Ljava/lang/Number;)V,0.033864520490169525
+org.jfree.data.general.AbstractSeriesDataset:<init>()V,0.0004636587400455028
+org.jfree.data.category.DefaultIntervalCategoryDataset:<init>([[D[[D)V,0.0007057192851789296
+org.jfree.data.general.AbstractDataset:<init>()V,0.00037930719554424286
+org.jfree.data.general.AbstractDataset:clone()Ljava/lang/Object;,0.000488088873680681
+org.jfree.data.category.DefaultIntervalCategoryDataset:<init>([[Ljava/lang/Number;[[Ljava/lang/Number;)V,0.0007057192851789296
+org.jfree.data.general.DatasetGroup:<init>()V,0.0003793518990278244
+org.jfree.data.category.DefaultIntervalCategoryDataset:getCategoryIndex(Ljava/lang/Comparable;)I,0.0975118950009346
+org.jfree.data.category.DefaultIntervalCategoryDataset:getColumnCount()I,0.045135725289583206
+org.jfree.data.category.DefaultIntervalCategoryDataset:getColumnIndex(Ljava/lang/Comparable;)I,0.11879479885101318
+org.jfree.data.category.DefaultIntervalCategoryDataset:getSeriesIndex(Ljava/lang/Comparable;)I,0.11933118849992752
+org.jfree.data.category.DefaultIntervalCategoryDataset:getRowIndex(Ljava/lang/Comparable;)I,0.16304104030132294
+org.jfree.data.category.DefaultIntervalCategoryDataset:setCategoryKeys([Ljava/lang/Comparable;)V,0.2480413019657135

@@ -1,0 +1,11 @@
+org.apache.commons.lang.time.DurationFormatUtils:lexx(Ljava/lang/String;)[Lorg/apache/commons/lang/time/DurationFormatUtils$Token;,0.1456851214170456
+org.apache.commons.lang.time.DurationFormatUtils:formatPeriod(JJLjava/lang/String;ZLjava/util/TimeZone;)Ljava/lang/String;,0.21361340582370758
+org.apache.commons.lang.time.DurationFormatUtils:format([Lorg/apache/commons/lang/time/DurationFormatUtils$Token;IIIIIIIZ)Ljava/lang/String;,0.15704362094402313
+org.apache.commons.lang.StringUtils:leftPad(Ljava/lang/String;IC)Ljava/lang/String;,0.07278209179639816
+org.apache.commons.lang.time.DurationFormatUtils$Token:containsTokenWithValue([Lorg/apache/commons/lang/time/DurationFormatUtils$Token;Ljava/lang/Object;)Z,0.06515120714902878
+org.apache.commons.lang.time.DurationFormatUtils:reduceAndCorrect(Ljava/util/Calendar;Ljava/util/Calendar;II)I,0.12690222263336182
+org.apache.commons.lang.time.DurationFormatUtils$Token:<init>(Ljava/lang/Object;)V,0.050679173320531845
+org.apache.commons.lang.time.DurationFormatUtils$Token:increment()V,0.050203777849674225
+org.apache.commons.lang.time.DurationFormatUtils:formatPeriod(JJLjava/lang/String;)Ljava/lang/String;,0.03740594908595085
+org.apache.commons.lang.time.DurationFormatUtils$Token:getValue()Ljava/lang/Object;,0.04039265587925911
+org.apache.commons.lang.time.DurationFormatUtils$Token:getCount()I,0.04014076665043831

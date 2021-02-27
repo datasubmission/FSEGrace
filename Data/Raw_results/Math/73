@@ -1,0 +1,15 @@
+org.apache.commons.math.stat.Frequency:getPct(J)D,0.12131635844707489
+org.apache.commons.math.stat.Frequency:addValue(Ljava/lang/Comparable;)V,0.0162543673068285
+org.apache.commons.math.stat.Frequency:getCount(Ljava/lang/Comparable;)J,0.019955361261963844
+org.apache.commons.math.stat.Frequency:getSumFreq()J,0.0716860294342041
+org.apache.commons.math.stat.Frequency$NaturalComparator:<init>(Lorg/apache/commons/math/stat/Frequency$1;)V,0.001037044101394713
+org.apache.commons.math.stat.Frequency:getPct(I)D,0.06753525137901306
+org.apache.commons.math.stat.Frequency:getCumFreq(Ljava/lang/Comparable;)J,0.33787211775779724
+org.apache.commons.math.stat.Frequency$NaturalComparator:compare(Ljava/lang/Comparable;Ljava/lang/Comparable;)I,0.015074941329658031
+org.apache.commons.math.stat.Frequency:getCumFreq(J)J,0.03254035860300064
+org.apache.commons.math.stat.Frequency:addValue(J)V,0.0036525612231343985
+org.apache.commons.math.stat.Frequency:<init>()V,0.0027222807984799147
+org.apache.commons.math.stat.Frequency:addValue(I)V,0.003650638973340392
+org.apache.commons.math.stat.Frequency:getPct(Ljava/lang/Object;)D,0.12131635844707489
+org.apache.commons.math.stat.Frequency:getCumPct(Ljava/lang/Comparable;)D,0.07055751234292984
+org.apache.commons.math.stat.Frequency:getPct(Ljava/lang/Comparable;)D,0.11482888460159302

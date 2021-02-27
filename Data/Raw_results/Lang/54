@@ -1,0 +1,6 @@
+org.apache.commons.lang.math.NumberUtils:isDigits(Ljava/lang/String;)Z,0.11756004393100739
+org.apache.commons.lang.math.NumberUtils:createNumber(Ljava/lang/String;)Ljava/lang/Number;,0.3581016957759857
+org.apache.commons.lang.StringUtils:isEmpty(Ljava/lang/String;)Z,0.09477723389863968
+org.apache.commons.lang.math.NumberUtils:createLong(Ljava/lang/String;)Ljava/lang/Long;,0.1022254005074501
+org.apache.commons.lang.StringUtils:isBlank(Ljava/lang/String;)Z,0.14663967490196228
+org.apache.commons.lang.math.NumberUtils:isAllZeros(Ljava/lang/String;)Z,0.18069599568843842

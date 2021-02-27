@@ -1,0 +1,16 @@
+org.mockito.internal.util.reflection.GenericMetadataSupport:registerTypeVariablesOn(Ljava/lang/reflect/Type;)V,0.10227098315954208
+org.mockito.internal.util.reflection.GenericMetadataSupport:boundsOf(Ljava/lang/reflect/TypeVariable;)Lorg/mockito/internal/util/reflection/GenericMetadataSupport$BoundedType;,0.06925441324710846
+org.mockito.internal.util.reflection.GenericMetadataSupport:registerTypeVariableIfNotPresent(Ljava/lang/reflect/TypeVariable;)V,0.04934119060635567
+org.mockito.internal.util.reflection.GenericMetadataSupport:registerTypeParametersOn([Ljava/lang/reflect/TypeVariable;)V,0.046281736344099045
+org.mockito.internal.util.Checks:checkNotNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;,0.000770636135712266
+org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport:<init>(Ljava/lang/Class;)V,0.05250224843621254
+org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType:readTypeVariables()V,0.08380937576293945
+org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport:readActualTypeParametersOnDeclaringClass(Ljava/lang/Class;)V,0.03877802938222885
+org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport:superClassOf(Ljava/lang/Class;)Ljava/lang/Class;,0.0622144415974617
+org.mockito.internal.util.reflection.GenericMetadataSupport:inferFrom(Ljava/lang/reflect/Type;)Lorg/mockito/internal/util/reflection/GenericMetadataSupport;,0.056264203041791916
+org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVarBoundedType:<init>(Ljava/lang/reflect/TypeVariable;)V,0.050959065556526184
+org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType:<init>(Lorg/mockito/internal/util/reflection/GenericMetadataSupport;[Ljava/lang/reflect/TypeVariable;Ljava/lang/reflect/TypeVariable;)V,0.09850288182497025
+org.mockito.internal.util.reflection.GenericMetadataSupport:resolveGenericReturnType(Ljava/lang/reflect/Method;)Lorg/mockito/internal/util/reflection/GenericMetadataSupport;,0.10077372193336487
+org.mockito.internal.util.reflection.GenericMetadataSupport:getActualTypeArgumentFor(Ljava/lang/reflect/TypeVariable;)Ljava/lang/reflect/Type;,0.1007365882396698
+org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType:readTypeParameters()V,0.06350245326757431
+org.mockito.internal.util.reflection.GenericMetadataSupport:<init>()V,0.024038009345531464

@@ -1,0 +1,4 @@
+org.apache.commons.lang.StringEscapeUtils:escapeJavaStyleString(Ljava/lang/String;Z)Ljava/lang/String;,0.18372872471809387
+org.apache.commons.lang.StringEscapeUtils:escapeJavaStyleString(Ljava/io/Writer;Ljava/lang/String;Z)V,0.6216931939125061
+org.apache.commons.lang.StringEscapeUtils:escapeJavaScript(Ljava/io/Writer;Ljava/lang/String;)V,0.13754422962665558
+org.apache.commons.lang.StringEscapeUtils:escapeJavaScript(Ljava/lang/String;)Ljava/lang/String;,0.05703391134738922

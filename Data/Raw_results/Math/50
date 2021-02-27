@@ -1,0 +1,15 @@
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:<init>(DLorg/apache/commons/math/geometry/euclidean/threed/Vector3D;)V,0.0021182410418987274
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:dotProduct(Lorg/apache/commons/math/geometry/Vector;)D,0.0016843070043250918
+org.apache.commons.math.geometry.euclidean.threed.Rotation:<init>(Lorg/apache/commons/math/geometry/euclidean/threed/Vector3D;Lorg/apache/commons/math/geometry/euclidean/threed/Vector3D;Lorg/apache/commons/math/geometry/euclidean/threed/Vector3D;Lorg/apache/commons/math/geometry/euclidean/threed/Vector3D;)V,0.7908147573471069
+org.apache.commons.math.geometry.euclidean.threed.Rotation:getQ0()D,0.1520831286907196
+org.apache.commons.math.util.MathUtils:linearCombination(DDDD)D,0.014383909292519093
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:<init>(DDD)V,0.0010935672326013446
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:crossProduct(Lorg/apache/commons/math/geometry/Vector;)Lorg/apache/commons/math/geometry/euclidean/threed/Vector3D;,0.001804127125069499
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:<init>(DLorg/apache/commons/math/geometry/euclidean/threed/Vector3D;DLorg/apache/commons/math/geometry/euclidean/threed/Vector3D;)V,0.0024657966569066048
+org.apache.commons.math.util.FastMath:sqrt(D)D,0.0007321492303162813
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:getNormSq()D,0.006794953253120184
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:getZ()D,0.000992446905001998
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:getX()D,0.000992446905001998
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:getY()D,0.000992446905001998
+org.apache.commons.math.util.MathUtils:linearCombination(DDDDDD)D,0.021246150135993958
+org.apache.commons.math.geometry.euclidean.threed.Vector3D:subtract(Lorg/apache/commons/math/geometry/Vector;)Lorg/apache/commons/math/geometry/euclidean/threed/Vector3D;,0.0018014897359535098

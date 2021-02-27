@@ -1,0 +1,2 @@
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:<init>()V,0.4571187496185303
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment(Ljava/lang/String;)Ljava/lang/String;,0.542881190776825

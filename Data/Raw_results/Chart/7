@@ -1,0 +1,8 @@
+org.jfree.data.time.Week:getLastMillisecond(Ljava/util/Calendar;)J,0.0016975717153400183
+org.jfree.data.time.Week:peg(Ljava/util/Calendar;)V,0.0015956384595483541
+org.jfree.data.time.Week:<init>(Ljava/util/Date;Ljava/util/TimeZone;Ljava/util/Locale;)V,0.9427820444107056
+org.jfree.data.time.Week:<init>(II)V,0.0023502034600824118
+org.jfree.data.time.Week:getFirstMillisecond(Ljava/util/Calendar;)J,0.0016975717153400183
+org.jfree.data.time.Week:getWeek()I,0.041325513273477554
+org.jfree.data.time.Week:<init>(Ljava/util/Date;Ljava/util/TimeZone;)V,0.0075690895318984985
+org.jfree.data.time.RegularTimePeriod:<init>()V,0.0009823919972404838

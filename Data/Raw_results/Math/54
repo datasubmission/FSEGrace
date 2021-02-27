@@ -1,0 +1,14 @@
+org.apache.commons.math.util.MultidimensionalCounter:access$200(Lorg/apache/commons/math/util/MultidimensionalCounter;)[I,0.0004235868400428444
+org.apache.commons.math.util.MultidimensionalCounter:<init>([I)V,0.09079612046480179
+org.apache.commons.math.util.MultidimensionalCounter:getCount([I)I,0.18050029873847961
+org.apache.commons.math.util.MultidimensionalCounter:getCounts(I)[I,0.24417003989219666
+org.apache.commons.math.util.MultidimensionalCounter$Iterator:next()Ljava/lang/Integer;,0.1484977751970291
+org.apache.commons.math.util.MultidimensionalCounter:getDimension()I,0.04017595201730728
+org.apache.commons.math.util.MultidimensionalCounter$Iterator:<init>(Lorg/apache/commons/math/util/MultidimensionalCounter;)V,0.0006554118008352816
+org.apache.commons.math.util.FastMath:min(II)I,0.00031796685652807355
+org.apache.commons.math.util.MultidimensionalCounter$Iterator:hasNext()Z,0.1374281495809555
+org.apache.commons.math.util.MultidimensionalCounter:iterator()Lorg/apache/commons/math/util/MultidimensionalCounter$Iterator;,0.04582782834768295
+org.apache.commons.math.util.MultidimensionalCounter:getSize()I,0.0780775174498558
+org.apache.commons.math.util.MathUtils:copyOf([II)[I,0.000905645196326077
+org.apache.commons.math.util.MultidimensionalCounter$Iterator:getCount(I)I,0.03124057687819004
+org.apache.commons.math.util.MathUtils:copyOf([I)[I,0.0009830713970586658

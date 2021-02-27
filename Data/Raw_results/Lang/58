@@ -1,0 +1,10 @@
+org.apache.commons.lang.Entities:unescape(Ljava/lang/String;)Ljava/lang/String;,0.2619151175022125
+org.apache.commons.lang.Entities$PrimitiveEntityMap:add(Ljava/lang/String;I)V,0.08440840989351273
+org.apache.commons.lang.IntHashMap:<init>()V,0.0722167119383812
+org.apache.commons.lang.IntHashMap:put(ILjava/lang/Object;)Ljava/lang/Object;,0.12732934951782227
+org.apache.commons.lang.IntHashMap$Entry:<init>(IILjava/lang/Object;Lorg/apache/commons/lang/IntHashMap$Entry;)V,0.08210878074169159
+org.apache.commons.lang.IntHashMap:<init>(IF)V,0.10899993032217026
+org.apache.commons.lang.Entities:<init>()V,0.0635802373290062
+org.apache.commons.lang.Entities:addEntity(Ljava/lang/String;I)V,0.07645421475172043
+org.apache.commons.lang.Entities$LookupEntityMap:<init>()V,0.06232763081789017
+org.apache.commons.lang.Entities$PrimitiveEntityMap:<init>()V,0.060659635812044144

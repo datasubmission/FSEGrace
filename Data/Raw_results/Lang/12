@@ -1,0 +1,6 @@
+org.apache.commons.lang3.SerializationUtils:clone(Ljava/io/Serializable;)Ljava/io/Serializable;,0.5484458804130554
+org.apache.commons.lang3.SerializationUtils:serialize(Ljava/io/Serializable;)[B,0.021400369703769684
+org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream:resolveClass(Ljava/io/ObjectStreamClass;)Ljava/lang/Class;,0.012796725146472454
+org.apache.commons.lang3.SerializationUtils:serialize(Ljava/io/Serializable;Ljava/io/OutputStream;)V,0.10155991464853287
+org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream:<init>(Ljava/io/InputStream;Ljava/lang/ClassLoader;)V,0.134133979678154
+org.apache.commons.lang3.SerializationException:<init>(Ljava/lang/String;Ljava/lang/Throwable;)V,0.1816631406545639

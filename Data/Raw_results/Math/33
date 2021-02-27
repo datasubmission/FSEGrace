@@ -1,0 +1,4 @@
+org.apache.commons.math3.genetics.ListPopulation:<init>(Ljava/util/List;I)V,0.644939661026001
+org.apache.commons.math3.genetics.ElitisticListPopulation:<init>(Ljava/util/List;ID)V,0.09862001240253448
+org.apache.commons.math3.genetics.ElitisticListPopulation:<init>(ID)V,0.07620342820882797
+org.apache.commons.math3.genetics.ListPopulation:<init>(I)V,0.18023687601089478

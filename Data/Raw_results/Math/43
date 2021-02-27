@@ -1,0 +1,8 @@
+org.apache.commons.math.util.FastMath:floor(D)D,0.049218110740184784
+org.apache.commons.math.linear.OpenMapRealMatrix:<init>(II)V,0.24342885613441467
+org.apache.commons.math.util.FastMath:ceil(D)D,0.05135420337319374
+org.apache.commons.math.linear.RealLinearOperator:<init>()V,0.05348784476518631
+org.apache.commons.math.util.OpenIntToDoubleHashMap:<init>(D)V,0.07958380877971649
+org.apache.commons.math.util.OpenIntToDoubleHashMap:computeCapacity(I)I,0.2710646986961365
+org.apache.commons.math.linear.AbstractRealMatrix:<init>(II)V,0.08166780322790146
+org.apache.commons.math.util.OpenIntToDoubleHashMap:<init>(ID)V,0.17019467055797577

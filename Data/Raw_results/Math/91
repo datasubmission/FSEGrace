@@ -1,0 +1,3 @@
+org.apache.commons.math.util.MathUtils:factorial(I)J,0.4338630139827728
+org.apache.commons.math.util.MathUtils:factorialLog(I)D,0.38591980934143066
+org.apache.commons.math.util.MathUtils:factorialDouble(I)D,0.18021714687347412
