@@ -1,5 +1,0 @@
-org.apache.commons.math.util.MathUtils:binomialCoefficientLog(II)D,0.1512681096792221
-org.apache.commons.math.util.MathUtils:binomialCoefficient(II)J,0.5520286560058594
-org.apache.commons.math.util.MathUtils:addAndCheck(JJLjava/lang/String;)J,0.17897860705852509
-org.apache.commons.math.util.MathUtils:addAndCheck(JJ)J,0.08568745851516724
-org.apache.commons.math.util.MathUtils:binomialCoefficientDouble(II)D,0.03203709051012993

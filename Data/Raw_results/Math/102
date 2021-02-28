@@ -1,3 +1,0 @@
-org.apache.commons.math.stat.regression.SimpleRegression:getSumSquaredErrors()D,0.12305799871683121
-org.apache.commons.math.stat.regression.SimpleRegression:<init>()V,0.043972842395305634
-org.apache.commons.math.stat.regression.SimpleRegression:addData(DD)V,0.8329691290855408

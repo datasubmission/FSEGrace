@@ -1,2 +1,0 @@
-com.google.javascript.rhino.IR:mayBeStatement(Lcom/google/javascript/rhino/Node;)Z,0.27073943614959717
-com.google.javascript.rhino.IR:tryCatch(Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;)Lcom/google/javascript/rhino/Node;,0.7292605638504028

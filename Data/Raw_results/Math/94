@@ -1,8 +1,0 @@
-org.apache.commons.math.complex.Complex:multiply(Lorg/apache/commons/math/complex/Complex;)Lorg/apache/commons/math/complex/Complex;,0.06605208665132523
-org.apache.commons.math.complex.Complex:<init>(DD)V,0.012457573786377907
-org.apache.commons.math.complex.Complex:equals(Ljava/lang/Object;)Z,0.08943615853786469
-org.apache.commons.math.complex.Complex:createComplex(DD)Lorg/apache/commons/math/complex/Complex;,0.014852731488645077
-org.apache.commons.math.complex.Complex:isNaN()Z,0.010333799757063389
-org.apache.commons.math.complex.Complex:hashCode()I,0.7861548066139221
-org.apache.commons.math.util.MathUtils:hash(D)I,0.010094032622873783
-org.apache.commons.math.complex.Complex:getReal()D,0.010618774220347404

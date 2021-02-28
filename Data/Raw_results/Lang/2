@@ -1,4 +1,0 @@
-org.apache.commons.lang3.math.NumberUtils:createNumber(Ljava/lang/String;)Ljava/lang/Number;,0.34821927547454834
-org.apache.commons.lang3.math.NumberUtils:isAllZeros(Ljava/lang/String;)Z,0.22705158591270447
-org.apache.commons.lang3.math.NumberUtils:createFloat(Ljava/lang/String;)Ljava/lang/Float;,0.21208149194717407
-org.apache.commons.lang3.StringUtils:isBlank(Ljava/lang/CharSequence;)Z,0.2126476764678955

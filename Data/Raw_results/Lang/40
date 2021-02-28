@@ -1,5 +1,0 @@
-org.apache.commons.lang.text.ExtendedMessageFormat:<init>(Ljava/lang/String;Ljava/util/Map;)V,0.06376076489686966
-org.apache.commons.lang.text.ExtendedMessageFormat:<init>(Ljava/lang/String;Ljava/util/Locale;Ljava/util/Map;)V,0.06738950312137604
-org.apache.commons.lang.text.ExtendedMessageFormat:applyPattern(Ljava/lang/String;)V,0.39863091707229614
-org.apache.commons.lang.text.ExtendedMessageFormat:appendQuotedString(Ljava/lang/String;Ljava/text/ParsePosition;Ljava/lang/StringBuffer;Z)Ljava/lang/StringBuffer;,0.40545454621315
-org.apache.commons.lang.text.ExtendedMessageFormat:next(Ljava/text/ParsePosition;)Ljava/text/ParsePosition;,0.06476429849863052

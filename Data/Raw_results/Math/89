@@ -1,4 +1,0 @@
-org.apache.commons.math.fraction.Fraction:compareTo(Lorg/apache/commons/math/fraction/Fraction;)I,0.936983585357666
-org.apache.commons.math.util.MathUtils:gcd(II)I,0.016683876514434814
-org.apache.commons.math.fraction.Fraction:<init>(II)V,0.03509463742375374
-org.apache.commons.math.fraction.Fraction:doubleValue()D,0.011237853206694126

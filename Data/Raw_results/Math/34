@@ -1,4 +1,0 @@
-org.apache.commons.math.fraction.BigFraction:<init>(Ljava/math/BigInteger;Ljava/math/BigInteger;)V,0.044330623000860214
-org.apache.commons.math.util.MathUtils:checkNotNull(Ljava/lang/Object;Lorg/apache/commons/math/exception/util/Localizable;[Ljava/lang/Object;)V,0.0019966072868555784
-org.apache.commons.math.fraction.BigFraction:doubleValue()D,0.027361150830984116
-org.apache.commons.math.fraction.BigFraction:floatValue()F,0.9263116717338562

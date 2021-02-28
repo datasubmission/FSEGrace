@@ -1,4 +1,0 @@
-org.apache.commons.math3.complex.Complex:reciprocal()Lorg/apache/commons/math3/complex/Complex;,0.538690984249115
-org.apache.commons.math3.complex.Complex:equals(Ljava/lang/Object;)Z,0.023056544363498688
-org.apache.commons.math3.complex.Complex:<init>(DD)V,0.004694642033427954
-org.apache.commons.math3.complex.Complex:toString()Ljava/lang/String;,0.4335578680038452

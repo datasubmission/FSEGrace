@@ -1,6 +1,0 @@
-org.joda.time.tz.ZoneInfoProvider:getZone(Ljava/lang/String;)Lorg/joda/time/DateTimeZone;,0.09033220261335373
-org.joda.time.DateTimeZone:setDefault(Lorg/joda/time/DateTimeZone;)V,0.002704585436731577
-org.joda.time.DateTimeZone:forTimeZone(Ljava/util/TimeZone;)Lorg/joda/time/DateTimeZone;,0.49978944659233093
-org.joda.time.DateTimeZone:getDefault()Lorg/joda/time/DateTimeZone;,0.002253665355965495
-org.joda.time.DateTimeZone:getID()Ljava/lang/String;,0.0022999257780611515
-org.joda.time.DateTimeZone:getConvertedId(Ljava/lang/String;)Ljava/lang/String;,0.4026201367378235

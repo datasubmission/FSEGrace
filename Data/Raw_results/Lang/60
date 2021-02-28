@@ -1,9 +1,0 @@
-org.apache.commons.lang.enums.Enum:init(Ljava/lang/String;)V,0.5009263753890991
-org.apache.commons.lang.enums.Enum:class$(Ljava/lang/String;)Ljava/lang/Class;,0.043583743274211884
-org.apache.commons.lang.enums.Enum:getEnumClass()Ljava/lang/Class;,0.04249007627367973
-org.apache.commons.lang.StringUtils:isEmpty(Ljava/lang/String;)Z,0.029073236510157585
-org.apache.commons.lang.enums.Enum:createEntry(Ljava/lang/Class;)Lorg/apache/commons/lang/enums/Enum$Entry;,0.07435880601406097
-org.apache.commons.lang.enums.Enum$Entry:<init>()V,0.032724685966968536
-org.apache.commons.lang.enums.Enum:<init>(Ljava/lang/String;)V,0.1042112186551094
-org.apache.commons.lang.enums.ValuedEnum:compareTo(Ljava/lang/Object;)I,0.036445584148168564
-org.apache.commons.lang.enums.ValuedEnum:<init>(Ljava/lang/String;I)V,0.13618625700473785

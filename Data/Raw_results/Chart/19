@@ -1,8 +1,0 @@
-org.jfree.chart.plot.Marker:getPaint()Ljava/awt/Paint;,0.0961853489279747
-org.jfree.chart.plot.ValueMarker:<init>(DLjava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V,0.1122012585401535
-org.jfree.chart.util.RectangleInsets:<init>(Lorg/jfree/chart/util/UnitType;DDDD)V,0.042017459869384766
-org.jfree.chart.plot.ValueMarker:getValue()D,0.23599515855312347
-org.jfree.chart.util.RectangleInsets:<init>(DDDD)V,0.04188968986272812
-org.jfree.chart.plot.Marker:<init>(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V,0.10952313244342804
-org.jfree.chart.plot.Marker:getOutlinePaint()Ljava/awt/Paint;,0.2624284327030182
-org.jfree.chart.plot.Marker:getStroke()Ljava/awt/Stroke;,0.09975948929786682

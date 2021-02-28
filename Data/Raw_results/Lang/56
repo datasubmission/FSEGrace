@@ -1,8 +1,0 @@
-org.apache.commons.lang.text.StrBuilder:indexOf(Ljava/lang/String;I)I,0.21742556989192963
-org.apache.commons.lang.text.StrBuilder:deleteFirst(Ljava/lang/String;)Lorg/apache/commons/lang/text/StrBuilder;,0.16606290638446808
-org.apache.commons.lang.text.StrBuilder:<init>(Ljava/lang/String;)V,0.0820186585187912
-org.apache.commons.lang.text.StrBuilder:append(Ljava/lang/String;)Lorg/apache/commons/lang/text/StrBuilder;,0.09244314581155777
-org.apache.commons.lang.text.StrBuilder:ensureCapacity(I)Lorg/apache/commons/lang/text/StrBuilder;,0.08963581919670105
-org.apache.commons.lang.text.StrBuilder:contains(C)Z,0.1944589912891388
-org.apache.commons.lang.text.StrBuilder:deleteImpl(III)V,0.07269062101840973
-org.apache.commons.lang.text.StrBuilder:length()I,0.08526428788900375

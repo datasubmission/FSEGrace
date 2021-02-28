@@ -1,3 +1,0 @@
-org.jfree.chart.renderer.GrayPaintScale:<init>(DD)V,0.006408467423170805
-org.jfree.chart.renderer.GrayPaintScale:<init>()V,0.0027342778630554676
-org.jfree.chart.renderer.GrayPaintScale:getPaint(D)Ljava/awt/Paint;,0.9908571839332581

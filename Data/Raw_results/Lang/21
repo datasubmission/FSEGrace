@@ -1,8 +1,0 @@
-org.apache.commons.lang3.math.Fraction:equals(Ljava/lang/Object;)Z,0.1015242338180542
-org.apache.commons.lang3.math.Fraction:reduce()Lorg/apache/commons/lang3/math/Fraction;,0.03181001543998718
-org.apache.commons.lang3.math.Fraction:getFraction(II)Lorg/apache/commons/lang3/math/Fraction;,0.1227707713842392
-org.apache.commons.lang3.math.Fraction:getDenominator()I,0.020457468926906586
-org.apache.commons.lang3.math.Fraction:greatestCommonDivisor(II)I,0.24434491991996765
-org.apache.commons.lang3.math.Fraction:<init>(II)V,0.09186889231204987
-org.apache.commons.lang3.math.Fraction:getNumerator()I,0.020457472652196884
-org.apache.commons.lang3.math.Fraction:getReducedFraction(II)Lorg/apache/commons/lang3/math/Fraction;,0.36676621437072754
